@@ -1,0 +1,28 @@
+.accounts-container {
+    width: 400px;
+    min-height: 200px;
+    border-radius: 15px;
+    border: #F32424 2px solid;
+    background-color: #151D3B;
+}
+
+.acount-container {  
+    margin: 5px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.account-data {
+    margin: 2px;
+    width: 200px;
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: #F1DDBF;
+    font-size: 30px;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
